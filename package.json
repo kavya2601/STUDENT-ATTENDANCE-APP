@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+      "firebase": "7.9.0",
+      "expo-constants": "~9.1.1",
+      "react-navigation": "*",
+      "react-native-paper": "3.6.0",
+      "@react-navigation/native": "^3.8.3"
+    }
+  }
